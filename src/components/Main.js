@@ -204,39 +204,6 @@ const Main = (props) => {
           <div className="flex flex-col items-center justify-center space-y-3">
           <div className="flex flex-col items-center">
             <div className="h-28 w-28 lg:h-32 lg:w-32 rounded-full overflow-hidden bg-white">
-              <Image src={BibinMoncy} alt="" />
-            </div>
-            <span className="text-black text-xs font-medium bg-white -mt-4 rounded-full px-2">Co-Founder | CPO</span>
-          </div>
-            <p>Bibin Moncy</p>
-            <div>
-              <a href="https://www.linkedin.com/in/bibinmoncy/" target="_blank"
-              rel="nofollow noopener">
-                <svg
-                  width={35}
-                  viewBox="0 0 16 16"
-                  xmlns="http://www.w3.org/2000/svg"
-                  fill="none"
-                >
-                  <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
-                  <g
-                    id="SVGRepo_tracerCarrier"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                  ></g>
-                  <g id="SVGRepo_iconCarrier">
-                    <path
-                      fill="#0A66C2"
-                      d="M12.225 12.225h-1.778V9.44c0-.664-.012-1.519-.925-1.519-.926 0-1.068.724-1.068 1.47v2.834H6.676V6.498h1.707v.783h.024c.348-.594.996-.95 1.684-.925 1.802 0 2.135 1.185 2.135 2.728l-.001 3.14zM4.67 5.715a1.037 1.037 0 01-1.032-1.031c0-.566.466-1.032 1.032-1.032.566 0 1.031.466 1.032 1.032 0 .566-.466 1.032-1.032 1.032zm.889 6.51h-1.78V6.498h1.78v5.727zM13.11 2H2.885A.88.88 0 002 2.866v10.268a.88.88 0 00.885.866h10.226a.882.882 0 00.889-.866V2.865a.88.88 0 00-.889-.864z"
-                    ></path>
-                  </g>
-                </svg>
-              </a>
-            </div>
-          </div>
-          <div className="flex flex-col items-center justify-center space-y-3">
-          <div className="flex flex-col items-center">
-            <div className="h-28 w-28 lg:h-32 lg:w-32 rounded-full overflow-hidden bg-white">
             <Image src={NavneetKrishnan} alt="" />
             </div>
             <span className="text-black text-xs font-medium bg-white -mt-4 rounded-full px-3">CFO</span>
